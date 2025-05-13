@@ -1,0 +1,141 @@
+{
+  "company": {
+    "name": "THT",
+    "fullName": "THT"
+  },
+  "nav": {
+    "home": "Trang chủ",
+    "about": "Giới thiệu",
+    "services": "Dịch vụ",
+    "products": "Sản phẩm",
+    "contact": "Liên hệ"
+  },
+  "hero": {
+    "title": "THT Production",
+    "subtitle": "Giải pháp kỹ thuật chính xác",
+    "cta": "Tìm hiểu thêm",
+    "date": "27/04/2022"
+  },
+  "profile": {
+    "title": "Hồ sơ",
+    "services": [
+      {
+        "title": "Gia công CNC phay và tiện chính xác",
+        "color": "bg-emerald-500"
+      },
+      {
+        "title": "Cung cấp vật liệu cho ngành cơ khí, sản phẩm cho ngành công nghiệp hỗ trợ",
+        "color": "bg-lime-500"
+      },
+      {
+        "title": "Cung cấp giải pháp tự động hóa và dịch vụ kỹ thuật như sửa chữa, bảo trì...",
+        "color": "bg-pink-300"
+      },
+      {
+        "title": "Linh kiện điện tử, mạch điện tử",
+        "color": "bg-amber-500"
+      }
+    ]
+  },
+  "about": {
+    "title": "Về chúng tôi",
+    "description": "Chúng tôi là công ty sản xuất hàng đầu chuyên về phay và tiện CNC chính xác, cung cấp vật liệu cho ngành cơ khí và các ngành công nghiệp hỗ trợ."
+  },
+  "mission": {
+    "title": "Sứ mệnh",
+    "item1": "Trở thành đối tác uy tín và đáng tin cậy với khách hàng và nhà cung cấp trong nước và quốc tế với phương châm cùng có lợi.",
+    "item2": "Hợp tác phát triển, cung cấp giải pháp và dịch vụ tối ưu cho khách hàng và nhu cầu thị trường.",
+    "item3": "Xây dựng nguồn nhân lực tốt cho các ngành công nghiệp hỗ trợ và phụ trợ tại Việt Nam."
+  },
+  "vision": {
+    "title": "Tầm nhìn",
+    "item1": "Phát huy lợi thế gia công và nhà cung cấp trong nước cho các doanh nghiệp có vốn đầu tư nước ngoài tại Việt Nam.",
+    "item2": "Góp phần xây dựng thương hiệu cho các ngành công nghiệp hỗ trợ và phụ trợ trên trường quốc tế.",
+    "item3": "Không ngừng học hỏi, sáng tạo và phát triển đa dạng các loại hình gia công và sản phẩm đáp ứng nhu cầu thị trường trong nước và nước ngoài."
+  },
+  "capabilities": {
+    "title": "Năng lực sản xuất",
+    "description": "Máy móc hiện đại và đội ngũ lao động có kỹ năng của chúng tôi giúp cung cấp các giải pháp kỹ thuật chính xác chất lượng cao."
+  },
+  "philosophy": {
+    "title": "Triết lý kinh doanh",
+    "item1": "Khách hàng là trọng tâm và nguồn nhân lực trong công ty sẽ đưa công ty đến trọng tâm đó.",
+    "item2": "Nghiên cứu và phát triển công nghệ trong quá trình gia công nhằm nâng cao trình độ sản xuất.",
+    "item3": "Cung cấp dịch vụ và giải pháp tối ưu cho khách hàng thay vì chỉ gia công và bán sản phẩm."
+  },
+  "values": {
+    "title": "Giá trị cốt lõi",
+    "item1": "Chất lượng sản phẩm là hàng đầu",
+    "item2": "Cung cấp và phục vụ nhu cầu của khách hàng",
+    "item3": "Kiểm soát chất lượng 100% sản phẩm sau sản xuất",
+    "item4": "Mang những sản phẩm tốt nhất đến khách hàng",
+    "item5": "Tạo giá trị thực cho ngành công nghiệp",
+    "item6": "Luôn học hỏi và theo dõi xu hướng công nghệ",
+    "item7": "Môi trường xanh",
+    "item8": "Tạo việc làm cho nhiều người",
+    "item9": "Quan tâm đến xã hội"
+  },
+  "services": {
+    "title": "Dịch vụ của chúng tôi",
+    "produce": {
+      "title": "Sản xuất",
+      "items": [
+        "Gia công và sản xuất chi tiết cơ khí",
+        "Sản xuất khung tủ điện công nghiệp",
+        "Tủ giá đỡ bàn cơ khí",
+        "Máy móc tự động theo yêu cầu của khách hàng"
+      ]
+    },
+    "business": {
+      "title": "Kinh doanh",
+      "items": [
+        "Kinh doanh máy móc và thiết bị công nghiệp",
+        "Phụ kiện và phụ tùng",
+        "Vít, dụng cụ cắt",
+        "Xúc tiến công nghiệp hỗ trợ"
+      ]
+    },
+    "service": {
+      "title": "Dịch vụ",
+      "items": [
+        "Sửa chữa và bảo trì",
+        "Thiết lập hệ thống máy móc",
+        "Tư vấn và thực hiện tối ưu hóa trong sản xuất",
+        "Đào tạo và chuyển giao công nghệ"
+      ]
+    },
+    "project": {
+      "title": "Dự án",
+      "items": [
+        "Viễn thông",
+        "Thiết bị cho quân đội, viễn thông",
+        "Gia công và sản xuất cho Viettel, Samsung Việt Nam",
+        "Các dự án khác"
+      ]
+    }
+  },
+  "products": {
+    "title": "Sản phẩm của chúng tôi",
+    "description": "Chúng tôi sản xuất nhiều loại linh kiện kỹ thuật chính xác cho các ngành công nghiệp khác nhau."
+  },
+  "contact": {
+    "title": "Liên hệ với chúng tôi",
+    "address": "Số 1, Đường 422, Xã Tân Lập, Huyện Đan Phượng, Thành phố Hà Nội",
+    "hotline": "0364516886",
+    "email": "contact@tht.com",
+    "formTitle": "Gửi tin nhắn cho chúng tôi",
+    "name": "Họ và tên",
+    "email": "Email",
+    "message": "Tin nhắn",
+    "submit": "Gửi tin nhắn"
+  },
+  "footer": {
+    "rights": "Bản quyền thuộc về",
+    "privacy": "Chính sách bảo mật",
+    "terms": "Điều khoản dịch vụ"
+  },
+  "language": {
+    "en": "Tiếng Anh",
+    "vi": "Tiếng Việt"
+  }
+}

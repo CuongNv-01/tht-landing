@@ -1,0 +1,141 @@
+{
+  "company": {
+    "name": "THT",
+    "fullName": "THT"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "products": "Products",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "THT Production",
+    "subtitle": "Precision Engineering Solutions",
+    "cta": "Learn More",
+    "date": "27/04/2022"
+  },
+  "profile": {
+    "title": "Profile",
+    "services": [
+      {
+        "title": "Machining precision CNC milling and turning",
+        "color": "bg-emerald-500"
+      },
+      {
+        "title": "Supplier for materials for the mechanical industry, products for the supporting industry",
+        "color": "bg-lime-500"
+      },
+      {
+        "title": "Provide automation solutions and technical services such as repair, maintenance...",
+        "color": "bg-pink-300"
+      },
+      {
+        "title": "Electronic components, electronic circuits",
+        "color": "bg-amber-500"
+      }
+    ]
+  },
+  "about": {
+    "title": "About Us",
+    "description": "We are a leading manufacturing company specializing in precision CNC milling and turning, supplying materials for the mechanical industry and supporting industries."
+  },
+  "mission": {
+    "title": "Our Mission",
+    "item1": "Become a prestigious and reliable partner with domestic and international customers and suppliers with the motto of mutual benefits.",
+    "item2": "Cooperation in development, providing optimal solutions and services for customers and market needs.",
+    "item3": "Building good human resources for supporting and supporting industries in Vietnam."
+  },
+  "vision": {
+    "title": "Our Vision",
+    "item1": "Bringing into play the advantages of outsourcing and domestic suppliers for foreign-invested enterprises in Vietnam.",
+    "item2": "Contributing to building brands for supporting and auxiliary industries in the international arena.",
+    "item3": "Constantly learning, creating and developing a variety of processing types and products to meet the needs of domestic and foreign markets."
+  },
+  "capabilities": {
+    "title": "Production Capabilities",
+    "description": "Our state-of-the-art machinery and skilled workforce enable us to deliver high-quality precision engineering solutions."
+  },
+  "philosophy": {
+    "title": "Business Philosophy",
+    "item1": "Customers as the focus and human resources in the company will bring the company to that focus.",
+    "item2": "Research and develop technology in the process of outsourcing to improve production level.",
+    "item3": "Provide services and optimal solutions for customers instead of just outsourcing and selling products."
+  },
+  "values": {
+    "title": "Core Values",
+    "item1": "Product quality comes first",
+    "item2": "Supply and serve the needs of customers",
+    "item3": "100% product after produce quality control",
+    "item4": "Bringing the best products to customers",
+    "item5": "Create real value for the industry",
+    "item6": "Always learning and following technology trends",
+    "item7": "Green environment",
+    "item8": "Create jobs for more people",
+    "item9": "Take care about society"
+  },
+  "services": {
+    "title": "Our Services",
+    "produce": {
+      "title": "Produce",
+      "items": [
+        "Machining and manufacturing mechanical part",
+        "Producing industrial electrical cabinet frames",
+        "Mechanical workbench rack cabinets",
+        "Automated machinery according to customer request"
+      ]
+    },
+    "business": {
+      "title": "Business",
+      "items": [
+        "Trade in industrial machinery and equipment",
+        "Accessories and Spare parts",
+        "Screw, Cutting tools",
+        "Promotion industrial supporting"
+      ]
+    },
+    "service": {
+      "title": "Service",
+      "items": [
+        "Repair and maintenance",
+        "Setup of machinery systems",
+        "Consulting and implementing optimization in production",
+        "Training and technology transfer"
+      ]
+    },
+    "project": {
+      "title": "Project",
+      "items": [
+        "Telecommunication",
+        "Equipment for military, telecommunication",
+        "Processing and manufacturing for Viettel's, Samsung Vietnam",
+        "Other projects"
+      ]
+    }
+  },
+  "products": {
+    "title": "Our Products",
+    "description": "We produce a wide range of precision-engineered components for various industries."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "address": "No. 1, Street 422, Tan Lap Commune, Dan Phuong District, Hanoi City",
+    "hotline": "0364516886",
+    "email": "contact@tht.com",
+    "formTitle": "Send us a message",
+    "name": "Your Name",
+    "email": "Your Email",
+    "message": "Your Message",
+    "submit": "Send Message"
+  },
+  "footer": {
+    "rights": "All Rights Reserved",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "language": {
+    "en": "English",
+    "vi": "Vietnamese"
+  }
+}
