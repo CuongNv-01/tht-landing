@@ -10,7 +10,7 @@ const { t } = useI18n();
       <div class="flex flex-col md:flex-row items-center">
         <!-- Text content -->
         <div class="w-full md:w-1/2 text-white mb-10 md:mb-0">
-          <h1 class="text-4xl md:text-5xl font-bold mb-4">{{ t('hero.title') }}</h1>
+          <h1 class="text-4xl md:text-5xl font-bold mb-4">THT PRECISION MECHANICAL CO.,LTD</h1>
           <p class="text-xl md:text-2xl mb-8">{{ t('hero.subtitle') }}</p>
           <a href="#about" class="btn bg-white text-primary hover:bg-gray-100">
             {{ t('hero.cta') }}

@@ -46,7 +46,7 @@ const { t } = useI18n();
       <div class="grid grid-cols-1 md:grid-cols-2 gap-10">
         <!-- Contact information -->
         <div class="bg-gray-50 p-8 rounded-lg shadow-md">
-          <h3 class="text-2xl font-bold mb-6 text-primary">THT</h3>
+          <h3 class="text-2xl font-bold mb-6 text-primary">THT PRECISION MECHANICAL CO.,LTD</h3>
 
           <div class="space-y-6">
             <div class="flex items-start">

@@ -11,7 +11,7 @@ const currentYear = new Date().getFullYear();
       <div class="grid grid-cols-1 md:grid-cols-4 gap-10">
         <!-- Company info -->
         <div class="md:col-span-2">
-          <h3 class="text-2xl font-bold mb-4">THT</h3>
+          <h3 class="text-2xl font-bold mb-4">THT PRECISION MECHANICAL CO.,LTD</h3>
           <p class="mb-4 text-gray-300 pr-4">
             Specializing in precision CNC milling and turning, supplying materials for the mechanical industry and supporting industries.
           </p>
@@ -45,7 +45,7 @@ const currentYear = new Date().getFullYear();
           <ul class="space-y-2">
             <li><a href="#home" class="text-gray-300 hover:text-white transition-colors">{{ t('nav.home') }}</a></li>
             <li><a href="#about" class="text-gray-300 hover:text-white transition-colors">{{ t('nav.about') }}</a></li>
-            <li><a href="#services" class="text-gray-300 hover:text-white transition-colors">{{ t('nav.services') }}</a></li>
+            <!-- <li><a href="#services" class="text-gray-300 hover:text-white transition-colors">{{ t('nav.services') }}</a></li> -->
             <li><a href="#products" class="text-gray-300 hover:text-white transition-colors">{{ t('nav.products') }}</a></li>
             <li><a href="#contact" class="text-gray-300 hover:text-white transition-colors">{{ t('nav.contact') }}</a></li>
           </ul>

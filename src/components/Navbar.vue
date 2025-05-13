@@ -42,7 +42,7 @@ if (savedLocale && (savedLocale === 'en' || savedLocale === 'vi')) {
         <div class="hidden md:flex space-x-8">
           <a href="#home" class="text-gray-700 hover:text-primary transition-colors">{{ t('nav.home') }}</a>
           <a href="#about" class="text-gray-700 hover:text-primary transition-colors">{{ t('nav.about') }}</a>
-          <a href="#services" class="text-gray-700 hover:text-primary transition-colors">{{ t('nav.services') }}</a>
+          <!-- <a href="#services" class="text-gray-700 hover:text-primary transition-colors">{{ t('nav.services') }}</a> -->
           <a href="#products" class="text-gray-700 hover:text-primary transition-colors">{{ t('nav.products') }}</a>
           <a href="#contact" class="text-gray-700 hover:text-primary transition-colors">{{ t('nav.contact') }}</a>
         </div>
