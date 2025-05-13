@@ -12,6 +12,8 @@ const toggleMenu = () => {
 const changeLanguage = (lang: string) => {
   locale.value = lang;
   localStorage.setItem('locale', lang);
+  // Force refresh of page components
+  document.documentElement.setAttribute('lang', lang);
 };
 
 // Check if there's a saved language preference
