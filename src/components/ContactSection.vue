@@ -1,40 +1,39 @@
 <script setup lang="ts">
 import { useI18n } from 'vue-i18n';
-import { ref } from 'vue';
 
 const { t } = useI18n();
 
-const formData = ref({
-  name: '',
-  email: '',
-  message: ''
-});
+// const formData = ref({
+//   name: '',
+//   email: '',
+//   message: ''
+// });
 
-const isSubmitting = ref(false);
-const submitSuccess = ref(false);
-const submitError = ref(false);
+// const isSubmitting = ref(false);
+// const submitSuccess = ref(false);
+// const submitError = ref(false);
 
-const handleSubmit = () => {
-  isSubmitting.value = true;
+// const handleSubmit = () => {
+//   isSubmitting.value = true;
 
-  // Simulate form submission
-  setTimeout(() => {
-    isSubmitting.value = false;
-    submitSuccess.value = true;
+//   // Simulate form submission
+//   setTimeout(() => {
+//     isSubmitting.value = false;
+//     submitSuccess.value = true;
 
-    // Reset form
-    formData.value = {
-      name: '',
-      email: '',
-      message: ''
-    };
+//     // Reset form
+//     formData.value = {
+//       name: '',
+//       email: '',
+//       message: ''
+//     };
 
-    // Hide success message after 3 seconds
-    setTimeout(() => {
-      submitSuccess.value = false;
-    }, 3000);
-  }, 1000);
-};
+//     // Hide success message after 3 seconds
+//     setTimeout(() => {
+//       submitSuccess.value = false;
+//     }, 3000);
+//   }, 1000);
+// };
 </script>
 
 <template>
